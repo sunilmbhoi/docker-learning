@@ -148,7 +148,7 @@
                resourceName="UserDatabase"/>
       </Realm>
 
-      <Host name="localhost"  appBase="webapps"
+      <Host name="localhost"  appBase="dev"
             unpackWARs="true" autoDeploy="true">
         <Context path="/" docBase="SampleWebApp" reloadable="true" crossContext="true"/>
 
